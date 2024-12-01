@@ -5,6 +5,10 @@ Este documento descreve os pontos do fluxo de controle, calcula a complexidade c
 
 ---
 
+![Diagrama](https://github.com/user-attachments/assets/ecb2e2f9-c140-4dec-a6cd-21d48dfdf91b)
+
+---
+
 ## Descrição dos Pontos
 
 ### **Método conectarBD**
@@ -70,7 +74,3 @@ A complexidade ciclomática é **4**, indicando que o código possui 4 caminhos 
 3. Caminho 3: N9 → N10 → N11 → N12 → N16 → N17 (falha).
 
 ---
-
-## Conclusão
-
-O código apresenta 4 caminhos distintos, com uma estrutura de fluxo bem definida e controlada. A complexidade ciclomática é moderada, sugerindo que o código pode ser mantido e testado de forma eficaz.
