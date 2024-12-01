@@ -4,6 +4,8 @@
 Este documento descreve os pontos do fluxo de controle, calcula a complexidade ciclomática e apresenta os caminhos possíveis do código analisado.
 
 ---
+![Diagrama](https://github.com/user-attachments/assets/6213e5f0-fdcf-47cf-95fc-1245793a446a)
+---
 
 ## Descrição dos Pontos
 
