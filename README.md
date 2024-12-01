@@ -1,6 +1,6 @@
 # TESTE CAIXA BRANCA
 
-## Descrição
+## Descrição 
 
 Abaixo estão listados os erros encontrados no código original, que comprometem sua funcionalidade, segurança e boas práticas de programação.
 
