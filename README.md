@@ -1,4 +1,4 @@
-# Sistema de Autenticação de Usuários
+# Sistema de Autenticação de Usuários - Etapa 4
 
 Este projeto consiste em uma implementação simples de autenticação de usuários utilizando Java e um banco de dados MySQL. Ele contém uma classe principal chamada `User`, que gerencia a conexão com o banco e valida as credenciais fornecidas.
 
